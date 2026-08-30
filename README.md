@@ -8,9 +8,9 @@ Given a CSV of time vs OD600 measurements, the tool:
 
 - Fits the modified Gompertz model (Zwietering et al., 1990) to each condition
 - Extracts and reports:
-  - K — carrying capacity (maximum OD)
-  - mu_max — maximum specific growth rate (per hr)
-  - lag — lag phase duration (hr)
+  - K: carrying capacity (maximum OD)
+  - mu_max:  maximum specific growth rate (per hr)
+  - lag: lag phase duration (hr)
   - doubling time (hr), derived as ln(2) / mu_max
 - Reports parameter uncertainty
 - Produces a plot with raw data, fitted curves, and lag phase markers
