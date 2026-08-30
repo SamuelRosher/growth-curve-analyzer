@@ -1,0 +1,4 @@
+condition,n_replicates,R2,K (max OD),K stderr,mu_max (per hr),mu_max stderr,lag phase (hr),lag stderr,doubling time (hr),doubling time stderr
+E_coli,3,0.996,1.0031,0.0074,0.43,0.023,2.9445,0.0672,1.6121,0.0862
+S_aureus,3,0.9916,0.965,0.0168,0.1692,0.0094,4.9344,0.1537,4.0976,0.2266
+B_subtilis,3,0.9947,0.9768,0.012,0.2087,0.0096,4.0036,0.1111,3.3218,0.153
